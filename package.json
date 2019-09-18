@@ -42,5 +42,5 @@
     "url": "git://github.com/whitesyn/humanize-duration-es6.git"
   },
   "bugs": "https://github.com/whitesyn/humanize-duration-es6/issues",
-  "license": "Unlicense"
+  "license": "MIT"
 }
